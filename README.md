@@ -6,6 +6,9 @@
 ## (It doesnot have a seperate schematic file only the simulation has the hardware stuff and the code is uploaded inside the repo)
 ##  Circuit Design
 
+
+https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a
+
 [![Open Interactive Circuit](https://img.shields.io/badge/Open%20Interactive%20Circuit-Cirkit%20Designer-blue?style=for-the-badge)](https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a?view=interactive_preview)
 
 [**→ Edit this project interactively in Cirkit Designer**](https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a)

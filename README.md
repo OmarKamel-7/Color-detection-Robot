@@ -4,6 +4,16 @@
 ### Robot with 2 Motors and color detection sensor to check the Traffic Light
 
 ## (It doesnot have a seperate schematic file only the simulation has the hardware stuff and the code is uploaded inside the repo)
+
+
+Bom:
+- Raspberry pi pico
+- 2x dc Geared motors
+- l298n motor driver
+- oled i2c display
+- Color Sensor
+
+
 ##  Circuit Design
 
 

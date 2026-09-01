@@ -13,3 +13,16 @@ Bom:
 
 
 the code has the oled display Test Code and Init
+
+
+
+# what is diffrent
+
+i changed to tinkercad which is mostly working but the the lcd is very buggy
+
+
+new Bom:
+- arduino uno
+- 2x dc Geared motors
+- 2x npn
+- lcd i2c display

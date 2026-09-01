@@ -1,28 +1,24 @@
-# Color-detection-Robot
+# deskbot
 
 
-### Robot with 2 Motors and color detection sensor to check the Traffic Light
+### Robot with 2 Motors and lcd t
 
-## (It doesnot have a seperate schematic file only the simulation has the hardware stuff and the code is uploaded inside the repo)
 
 
 Bom:
-- Raspberry pi pico
+- arduino uno
 - 2x dc Geared motors
-- l298n motor driver
-- oled i2c display
-- Color Sensor
-
+- 2x npn transistor
+- lcd i2c display
 
 ##  Circuit Design
 
 
-https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a
+https://www.tinkercad.com/things/43BDItRXKdK-incredible-waasa/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
 
-[![Open Interactive Circuit](https://img.shields.io/badge/Open%20Interactive%20Circuit-Cirkit%20Designer-blue?style=for-the-badge)](https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a?view=interactive_preview)
+[![Open Interactive Circuit](https://img.shields.io/badge/Open%20-Interactive%20tinkercad%20Designer-blue?style=for-the-badge)](https://www.tinkercad.com/things/43BDItRXKdK-incredible-waasa/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
 [**→ Edit this project interactively in Cirkit Designer**](https://app.cirkitdesigner.com/project/6445feb3-b79f-4a11-a861-ae71bb74b23a)
 
 
-
-<img width="300" height="249.1" alt="circuit_image" src="https://github.com/user-attachments/assets/987c08bc-61a1-428c-a931-1bea88bcf558" />
+<img width="1571" height="914" alt="Incredible Waasa" src="https://github.com/user-attachments/assets/c348d2d9-7690-4d41-826e-68107593a71e" />
